@@ -19,8 +19,8 @@ React · TypeScript · Tailwind · Next.js · Node.js · Figma
 | Project | What it is | Stack |
 |---------|-----------|-------|
 | [World Cup Galaxy](https://world-cup-galaxy.vercel.app/) | Bilingual kids' app: stickers, quizzes and predictions for World Cup 2026 | Next.js · Supabase · Tailwind |
-| [8 Queens](https://github.com/galiakr/8queens) | Classic puzzle rebuilt in React | React · TypeScript · Tailwind |
-| [Just Dancing](https://github.com/galiakr/just-dancing) ✦ | Kids dance along. Teachable Machine detects movements in real time | React · TensorFlow.js |
+| [8 Queens](https://galiakr.github.io/8queens/) | Classic puzzle rebuilt in React | React · TypeScript · Tailwind |
+| [Just Dancing](galiakr.github.io/just-dancing/) ✦ | Kids dance along. Teachable Machine detects movements in real time | React · TensorFlow.js |
 | [Math Kingdom](https://github.com/galiakr/math-kingdom-js) ✦ | Math concepts for children, starting with infinity | React · TypeScript |
 | [AI Starter Kit](https://github.com/galiakr/ai-experience-starter-kit) ✦ | A parent's guide to exploring AI with children | React · Tailwind |
 | [ai-starter-playbook](https://github.com/galiakr/ai-starter-playbook) | My standards and skills for AI-ready projects | Markdown · GitHub Actions |
