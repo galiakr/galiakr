@@ -22,7 +22,7 @@ React · TypeScript · Tailwind · Next.js · Node.js · Figma
 | [8 Queens](https://galiakr.github.io/8queens/) | Classic puzzle rebuilt in React | React · TypeScript · Tailwind |
 | ✦ [Just Dancing](galiakr.github.io/just-dancing/) | Kids dance along. Teachable Machine detects movements in real time | React · TensorFlow.js |
 | ✦ [Math Kingdom](https://galiakr.github.io/math-kingdom/) | Math concepts for children, starting with infinity | React · TypeScript |
-| ✦ [AI Starter Kit](https://github.com/galiakr/ai-experience-starter-kit) | A parent's guide to exploring AI with children | HTML · CSS · Javascript |
+| ✦ [AI Starter Kit](https://galiakr.github.io/ai-experience-starter-kit/) | A parent's guide to exploring AI with children | HTML · CSS · Javascript |
 | [ai-starter-playbook](https://github.com/galiakr/ai-starter-playbook) | My standards and skills for AI-ready projects | Markdown · GitHub Actions |
 
 ✦ Part of the AI Learning for Kids suite
