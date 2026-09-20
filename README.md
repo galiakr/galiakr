@@ -1,9 +1,6 @@
 # Hi, I'm Galia
 
-Frontend developer with 10+ years shipping production UIs: from large-scale platforms 
-to self-directed products. With a background in Architecture and Visual Communication, 
-I care about the intersection of engineering and design: precise interfaces, accessible 
-components, and modern web technologies.
+Software engineer with 10+ years shipping production web applications: from large-scale platforms to self-directed products. My background in Architecture and Visual Communication gives me a product perspective and an understanding of UI/UX principles, and I care about the intersection of engineering and design: precise interfaces, accessible components, and modern web technologies.
 
 🟢 Currently: AI-powered dev tools course (Microsoft & GitHub) 🟢 open to new roles
 
