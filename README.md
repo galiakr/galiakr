@@ -28,7 +28,7 @@ React · TypeScript · Tailwind · Next.js · Node.js · Figma
 
 ## Talk
 [How I let AI raise my kids: the joy of co-learning with your children](https://www.youtube.com/watch?v=BVCtD6OQlsk)  
-Women on Stage graduating showcase · 2024
+Women on Stage graduating showcase · September 2025
 
 ---
 
